@@ -16,7 +16,7 @@ namespace cloudreve
     public partial class Form1 : Formium
     {
         public Form1()
-            : base("https://up.uno.moe/Login")//
+            : base("https://up.uno.moe/cloudreve_client/v1_beta_0_1.html")//
         {
             InitializeComponent();
             //获取键盘按下的key值
